@@ -1,2 +1,2 @@
 # Galeria-GRID
-Práctica: Galería de fotos hechas con CSS Grid
+Ejercicio galería de fotos hechas con CSS Grid.
